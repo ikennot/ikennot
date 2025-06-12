@@ -10,3 +10,9 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikennot&" alt="ikennot" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ikennot&show_icons=true&locale=en&layout=compact" alt="ikennot" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ikennot/ikennot/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ikennot/ikennot/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ikennot/ikennot/output/github-snake.svg" />
+</picture>
