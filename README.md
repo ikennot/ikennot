@@ -58,7 +58,6 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikennot&" alt="ikennot" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ikennot&show_icons=true&locale=en&layout=compact" alt="ikennot" /></p>
 
 <picture>
