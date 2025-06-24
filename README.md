@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Kenneth Domdom</h1>
 <p>🎓 20 y/o Computer Science student at University of Caloocan City 💻 Aspiring Full Stack Developer 🔭 Currently learning: Java, Spring Boot, HTML/CSS, JavaScript and C# 🌱 Building personal projects to improve both frontend and backend skills 📫 Let's connect and grow together in tech!</p>
 <h2>🚀 Languages and Tools I Use</h2>
-<p style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+<p style="display: flex; flex-wrap: wrap; gap: 10 px; align-items: center;">
   <!-- C# -->
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" />
