@@ -29,7 +29,7 @@
 
 <!-- Spring Boot Logo -->
 <a target="_blank" href="https://spring.io/projects/spring-boot">
-  <img src="https://img.icons8.com/color/48/000000/spring-boot.png" alt="spring boot" width="42" height="42"/>
+  <img src="https://spring.io/images/icon-spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg" alt="spring_boot" width="40"/>
 </a>
 
 
