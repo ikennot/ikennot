@@ -27,10 +27,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" />
   </a>
 
-  <!-- Spring -->
-  <a target="_blank" href="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42" />
-  </a>
+<!-- Spring Boot -->
+<a target="_blank" href="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
+  <img src="https://www.vectorlogo.zone/logos/springboot/springboot-icon.svg" alt="spring boot" width="42" height="42" />
+</a>
+
 
   <!-- MSSQL -->
   <a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
