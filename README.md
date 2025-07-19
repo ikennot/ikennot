@@ -27,9 +27,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" />
   </a>
 
-<!-- Spring Boot -->
-<a target="_blank" href="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
-  <img src="https://www.vectorlogo.zone/logos/springboot/springboot-icon.svg" alt="spring boot" width="42" height="42" />
+<!-- Spring Boot Logo -->
+<a target="_blank" href="https://spring.io/projects/spring-boot">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="springboot" width="42" height="42" />
 </a>
 
 
