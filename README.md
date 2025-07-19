@@ -28,7 +28,7 @@
   </a>
 
 <!-- Spring Boot Logo -->
-<a target="_blank" href="https://spring.io/projects/spring-boot">
+<a target="_blank" href="https://spring.io/projects/spring-boot](https://spring.io/images/icon-spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg">
   <img src="https://spring.io/images/icon-spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg" alt="spring_boot" width="40"/>
 </a>
 
