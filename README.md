@@ -1,7 +1,9 @@
 <h1>Hi 👋, I'm Kenneth Domdom</h1>
 <p>🎓 20 y/o Computer Science student at University of Caloocan City 💻 Aspiring Full Stack Developer 🔭 Currently learning: Java, Spring Boot, HTML/CSS, JavaScript and C# 🌱 Building personal projects to improve both frontend and backend skills 📫 Let's connect and grow together in tech!</p>
+
 <h2>🚀 Languages and Tools I Use</h2>
-<p style="display: flex; flex-wrap: wrap; gap: 10 px; align-items: center;">
+<p style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+
   <!-- C# -->
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" />
@@ -27,12 +29,30 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" />
   </a>
 
-<!-- Spring Boot Logo -->
-<!-- Spring Boot -->
-<a target="_blank" href="https://spring.io/projects/spring-boot">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="springboot" width="42" height="42"/>
-</a>
+  <!-- PHP -->
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" />
+  </a>
 
+  <!-- Python -->
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" />
+  </a>
+
+  <!-- Laravel -->
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="42" height="42" />
+  </a>
+
+  <!-- Spring Boot -->
+  <a target="_blank" href="https://spring.io/projects/spring-boot">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="springboot" width="42" height="42"/>
+  </a>
+
+  <!-- MySQL -->
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="42" height="42" />
+  </a>
 
   <!-- MSSQL -->
   <a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
@@ -58,6 +78,7 @@
   <a target="_blank" href="https://assets.vercel.com/image/upload/front/favicon/vercel/152x152.png">
     <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/152x152.png" alt="vercel" width="42" height="42" />
   </a>
+
 </p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ikennot&show_icons=true&locale=en&layout=compact" alt="ikennot" /></p>
