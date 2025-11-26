@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Kenneth Domdom</h1>
-<p>🎓 20 y/o Computer Science student at University of Caloocan City 💻 Aspiring Full Stack Developer 🔭 Currently learning: Java, Spring Boot, HTML/CSS, JavaScript and C# 🌱 Building personal projects to improve both frontend and backend skills 📫 Let's connect and grow together in tech!</p>
+<h1>Hi , I'm Kenneth Domdom</h1>
+<p>🎓 20 y/o Computer Science student at University of Caloocan City Aspiring Full Stack Developer  Currently learning: Java, Spring Boot, HTML/CSS, JavaScript and C#  Building personal projects to improve both frontend and backend skills  Let's connect and grow together in tech!</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
