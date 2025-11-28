@@ -80,7 +80,6 @@
 
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ikennot&show_icons=true&locale=en&layout=compact" alt="ikennot" /></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ikennot/ikennot/output/github-snake-dark.svg" />
